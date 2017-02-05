@@ -29,6 +29,7 @@ values."
               haskell-enable-hindent-style "johan-tibell")
      ;; better-defaults
      emacs-lisp
+     python
      osx
      ;; git
      ;; markdown
